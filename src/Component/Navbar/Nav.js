@@ -22,7 +22,7 @@ const useStyles = makeStyles((theme) => ({
   },
   menuButton: {
     marginRight: theme.spacing(2),
-  }, y
+  }, 
   title: {
     display: 'none',
     [theme.breakpoints.up('sm')]: {
